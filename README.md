@@ -19,26 +19,26 @@ https://medium.com/d-classified/large-language-model-integration-for-achieving-d
 
 Different types of scenarios:
 
-Low battery warning
-High winds detected
-GPS signal lost
-Obstacle detected in flight path
-Drone malfunction
-Emergency landing required
-Change in flight plan due to airspace restrictions
-Communication signal lost with remote controller
-Payload release malfunction
-Weather conditions deteriorating
-Bird strike
-Motor failure
-Propeller damage
-Collision with a stationary object
-Navigation system failure
-Loss of altitude control
-Sudden change in temperature
-Flight range exceeded
-Restricted flight zone entered
-Mechanical failure in landing gear
+- Low battery warning
+- High winds detected
+- GPS signal lost
+- Obstacle detected in flight path
+- Drone malfunction
+- Emergency landing required
+- Change in flight plan due to airspace restrictions
+- Communication signal lost with remote controller
+- Payload release malfunction
+- Weather conditions deteriorating
+- Bird strike
+- Motor failure
+- Propeller damage
+- Collision with a stationary object
+- Navigation system failure
+- Loss of altitude control
+- Sudden change in temperature
+- Flight range exceeded
+- Restricted flight zone entered
+- Mechanical failure in landing gear
 
 
 To login:
